@@ -2,7 +2,7 @@ console.log("Learning variables")
 const accountId = 900999
 let accountName = "Nihal"
 let accountEmail = 'nihalthakur81@gmail.com'
-let accountPassword = 2498
+let accountPassword = 2499
 let accountState;
 
 console.log(accountName)
