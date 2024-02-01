@@ -1,5 +1,11 @@
 //when we find type of undefined = undefined//
 //when we find type of null = object //
+/*
+ boolean
+ number
+ bigint
+ 
+*/
 
 let name = "nihal"
 let rollNum = 10
